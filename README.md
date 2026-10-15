@@ -9,8 +9,8 @@ El repo es la superficie educativa. Google Classroom queda como registro; aquí 
 |---|---|
 | Estado de la clase cada mañana | [`LIVE.md`](LIVE.md) |
 | Preguntas y dudas | Issues / Discussions |
-| Tu trabajo | **Use this template** en [`mi-diplomado`](https://github.com/yaeleureka-afk/mi-diplomado) (#aprendelatam) |
-| Del aprendizaje al negocio | [`emprendelatam`](https://github.com/yaeleureka-afk/emprendelatam) |
+| Tu trabajo | **Use this template** en [`mi-diplomado`](https://github.com/LutheranInstitute/mi-diplomado) (#aprendelatam) |
+| Del aprendizaje al negocio | [`emprendelatam`](https://github.com/LutheranInstitute/emprendelatam) |
 
 **Roles:** Yæl decide · Hark prepara · Hermes ejecuta.
 Martes 7pm (hora de Texas).
